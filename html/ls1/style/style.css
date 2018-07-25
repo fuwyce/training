@@ -1,0 +1,37 @@
+@import "normalize.css";
+*{
+    font-size:14px;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+.name {
+    text-align: center;
+}
+
+.main_photo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width:230px;
+    height:230px;
+}
+
+.activity {
+    color: gray;
+}
+
+hr {
+    margin: 0 auto 0 auto;
+    width: 100%;
+    border-color:black;
+    border-width: 0.5px;
+}
+
+.main_block {
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+
